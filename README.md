@@ -5,14 +5,16 @@ This project demonstrates an Interactive Chessboard built using React.js and Red
 
 
 ## Key Features
-### Chessboard Layout: Displays an 8x8 chessboard with alternating black and white squares.
-### Dynamic Color Changes:
-### Clicking on a white square changes its color to yellow.
-### Clicking on a black square changes its color to red.
-### State Management with Redux: Uses Redux for efficient and centralized state management to track square states and interactions.
-### Responsive Design: Optimized for desktop and mobile devices for a seamless user experience.
+
+#### Chessboard Layout: Displays an 8x8 chessboard with alternating black and white squares.
+#### Dynamic Color Changes:
+#### Clicking on a white square changes its color to yellow.
+#### Clicking on a black square changes its color to red.
+#### State Management with Redux: Uses Redux for efficient and centralized state management to track square states and interactions.
+#### Responsive Design: Optimized for desktop and mobile devices for a seamless user experience.
 
 ## Technology Stack
+
 React.js: Core framework for building the UI.
 Redux: For managing the chessboard's state and interactions.
 CSS: For styling the chessboard and square colors.
