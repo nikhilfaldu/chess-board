@@ -1,4 +1,5 @@
 # Interactive Chessboard with Redux
+
 This project demonstrates an Interactive Chessboard built using React.js and Redux. The application highlights user interactions with the chessboard by dynamically changing square colors based on simple conditions.
 
 ![Screenshot (520)](https://github.com/user-attachments/assets/49fbcf83-e27a-4312-8206-dace5c119fd3)
