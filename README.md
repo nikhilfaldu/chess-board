@@ -16,6 +16,9 @@ This project demonstrates an Interactive Chessboard built using React.js and Red
 ## Technology Stack
 
 React.js: Core framework for building the UI.
+
 Redux: For managing the chessboard's state and interactions.
+
 CSS: For styling the chessboard and square colors.
+
 JavaScript (ES6+): For implementing logic and user interactions.
