@@ -1,0 +1,33 @@
+/* App.css */
+
+/* Styling the h1 with wood texture inside text */
+h1 {
+  position: relative;
+  left: 5%;
+  margin-top: 1.4%;
+  font-family: 'Poppins', sans-serif;
+  font-size: 2.1rem; /* Adjust size as needed */
+  text-align: center;
+  background-image: url('./images/wood_border.webp'); /* Set the wooden texture image */
+  background-size: cover; /* Ensure the image covers the entire text */
+  -webkit-background-clip: text; /* Clip the background to the text (for Webkit-based browsers) */
+  background-clip: text; /* For other browsers */
+  color: transparent; /* Set the text color to transparent so the background image is visible */
+}
+
+.name{
+  font-size: 1rem;
+  color: black;
+  position: absolute;
+  top: 96%;
+  left: 85%;
+  text-align: right;
+}
+
+.logo{
+  width: 7rem;
+  height: 1.5rem;
+  position: absolute;
+  left: 91%;
+  top: 2%;
+}

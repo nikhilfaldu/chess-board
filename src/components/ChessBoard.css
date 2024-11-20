@@ -1,0 +1,16 @@
+/* Chessboard.css */
+
+.chessboard {
+    position: relative;
+    margin-top: 50%;
+    display: grid;
+    grid-template-columns: repeat(8, 1fr);
+    grid-template-rows: repeat(8, 1fr);
+    width: 40vw;
+    height: 40vw;
+    border: 1rem solid transparent;
+    border-image: url('../images/wood_border.webp') 10 round; /* Corrected path */
+    margin-top: -0.8%;
+    margin-left: 33%;
+  }
+  

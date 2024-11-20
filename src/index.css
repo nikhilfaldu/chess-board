@@ -1,0 +1,12 @@
+/* index.css */
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  background-image: url('./images/wood1.jpg'); /* Path to your wood image */
+  background-size: cover; /* Ensures the image covers the entire page */
+  background-position: center center; /* Centers the image */
+  background-attachment: fixed; /* Keeps the image fixed while scrolling */
+  overflow: hidden;
+}
